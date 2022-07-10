@@ -1,3 +1,5 @@
+#![feature(generic_const_exprs)]
+
 mod dispatch;
 
 use std::str::FromStr;

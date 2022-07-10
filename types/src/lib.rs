@@ -1,6 +1,7 @@
 //! Macros allowing to create constants for each available fixed-point type.
 
 #![no_std]
+#![feature(generic_const_exprs)]
 
 // 8-bit signed
 #[macro_export]

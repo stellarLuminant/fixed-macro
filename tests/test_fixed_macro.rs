@@ -1,3 +1,5 @@
+#![feature(generic_const_exprs)]
+
 use std::str::FromStr;
 
 use fixed_macro::fixed;

@@ -22,7 +22,7 @@ categories = ["algorithms", "data-structures", "science"]
 members = [".", "impl", "types"]
 
 [dependencies]
-fixed = "1"
+fixed = "2.0.0-alpha.2"
 fixed-macro-impl = { version = "1.1.1", path = "impl" }  # !V
 fixed-macro-types = { version = "1.1.1", path = "types" }  # !V
 

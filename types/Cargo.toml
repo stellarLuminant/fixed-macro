@@ -9,7 +9,7 @@ documentation = "https://docs.rs/fixed-macro"
 description = "Macro aliases used in the `fixed-macro` crate."
 
 [dependencies]
-fixed = "1"
+fixed = "2.0.0-alpha.2"
 fixed-macro-impl = { version = "1.1.1", path = "../impl" }  # !V
 
 [package.metadata.docs.rs]

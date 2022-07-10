@@ -73,6 +73,7 @@
 //! ```
 
 #![no_std]
+#![feature(generic_const_exprs)]
 
 pub use fixed_macro_impl::fixed;
 
